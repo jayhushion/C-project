@@ -29,34 +29,34 @@
 ### 系统的功能设计
 ![初始界面](https://github.com/jayhushion/C-project/blob/master/2.png)
 ### 系统的详细设计
-输入模块
+####输入模块
 ![输入模块](https://github.com/jayhushion/C-project/blob/master/3.png)
-排序模块：
+####排序模块：
 通过两个对象对比出生日期进行排序，找到当前未元素中年龄最小的对象的下标并交换两个对象的数据
-查询模块：
+####查询模块：
 先输入要查询对象的名字，通过循环匹配相应的对象数据
 ，若循环超出当前人数则查无此人，若匹配成功则显示相应匹配对象的信息
 
-统计模块：
+####统计模块：
 先提取学生的学生数信息，通过访问对象数组的性别来统计男女生各多少人。
-显示模块：
+####显示模块：
          通过调取类函数循环显示所有学生的全部信息。
 ### 系统实现及运行结果
 ####（一）系统开发工具
      CODEBLOCK::   ADOBE PHOTOSHOP	CC2018  WPSWORD
 #### （二）系统运行界面及结果
-开始界面：
+#####开始界面：
 ![开始界面](https://github.com/jayhushion/C-project/blob/master/1.png)
-输入界面：
+#####输入界面：
 ![输入界面](https://github.com/jayhushion/C-project/blob/master/4.png)
 ![输入界面](https://github.com/jayhushion/C-project/blob/master/5.png)
-排序界面：
+#####排序界面：
 ![排序界面](https://github.com/jayhushion/C-project/blob/master/6.png)
-查询界面：
+#####查询界面：
 ![查询界面](https://github.com/jayhushion/C-project/blob/master/7.png)
-统计界面：
+#####统计界面：
 ![统计界面](https://github.com/jayhushion/C-project/blob/master/8.png)
-显示界面：
+#####显示界面：
 ![显示界面](https://github.com/jayhushion/C-project/blob/master/9.png)
 ## 总结
 整体程序运行良好，没有发现重大BUG，可以实现应有功能。
