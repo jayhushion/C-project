@@ -27,10 +27,10 @@
 
 
 ###系统的功能设计
-![初始界面](https://github.com/jayhushion/C-project/blob/master/%E5%9B%BE%E7%89%872.png)
+![初始界面](https://github.com/jayhushion/C-project/blob/master/2.png)
 ###系统的详细设计
 输入模块
-![输入模块](https://github.com/jayhushion/C-project/blob/master/%E5%9B%BE%E7%89%873.png)
+![输入模块](https://github.com/jayhushion/C-project/blob/master/3.png)
 排序模块：
 通过两个对象对比出生日期进行排序，找到当前未元素中年龄最小的对象的下标并交换两个对象的数据
 查询模块：
@@ -46,18 +46,18 @@
      CODEBLOCK::   ADOBE PHOTOSHOP	CC2018  WPSWORD
 #### （二）系统运行界面及结果
 开始界面：
-![开始界面](/%E5%9B%BE%E7%89%871.png)
+![开始界面](https://github.com/jayhushion/C-project/blob/master/1.png)
 输入界面：
-![输入界面](/%E5%9B%BE%E7%89%874.png)
-![输入界面](https://github.com/jayhushion/C-project/blob/master/%E5%9B%BE%E7%89%875.png)
+![输入界面](https://github.com/jayhushion/C-project/blob/master/4.png)
+![输入界面](https://github.com/jayhushion/C-project/blob/master/5.png)
 排序界面：
-![排序界面](https://github.com/jayhushion/C-project/blob/master/%E5%9B%BE%E7%89%876.png)
+![排序界面](https://github.com/jayhushion/C-project/blob/master/6.png)
 查询界面：
-![查询界面](https://github.com/jayhushion/C-project/blob/master/%E5%9B%BE%E7%89%877.png)
+![查询界面](https://github.com/jayhushion/C-project/blob/master/7.png)
 统计界面：
-![统计界面](https://github.com/jayhushion/C-project/blob/master/%E5%9B%BE%E7%89%878.png)
+![统计界面](https://github.com/jayhushion/C-project/blob/master/8.png)
 显示界面：
-![显示界面](https://github.com/jayhushion/C-project/blob/master/%E5%9B%BE%E7%89%879.png)
+![显示界面](https://github.com/jayhushion/C-project/blob/master/9.png)
 ##总结
 整体程序运行良好，没有发现重大BUG，可以实现应有功能。
  在编写程序调试程序的过程中我学会了很多，比如友元函数的使用以及重载运算符的使用，强化了类的继承和派生的用法和类函数的调用吗，利用友元函数直接调用学生类有关于日期的检查合法性函数。加强了C++语言的编写能力。在编写时发现了无法辨别年月日的区分，利用了重载运算符的方式，分开了年月日及检查日期的合法性。
