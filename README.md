@@ -45,18 +45,18 @@
 #### （一）系统开发工具
      CODEBLOCK::   ADOBE PHOTOSHOP	CC2018  WPSWORD
 #### （二）系统运行界面及结果
-#####开始界面：
+##### 开始界面：
 ![开始界面](https://github.com/jayhushion/C-project/blob/master/1.png)
-#####输入界面：
+##### 输入界面：
 ![输入界面](https://github.com/jayhushion/C-project/blob/master/4.png)
 ![输入界面](https://github.com/jayhushion/C-project/blob/master/5.png)
-#####排序界面：
+##### 排序界面：
 ![排序界面](https://github.com/jayhushion/C-project/blob/master/6.png)
-#####查询界面：
+##### 查询界面：
 ![查询界面](https://github.com/jayhushion/C-project/blob/master/7.png)
-#####统计界面：
+##### 统计界面：
 ![统计界面](https://github.com/jayhushion/C-project/blob/master/8.png)
-#####显示界面：
+##### 显示界面：
 ![显示界面](https://github.com/jayhushion/C-project/blob/master/9.png)
 ## 总结
 整体程序运行良好，没有发现重大BUG，可以实现应有功能。
